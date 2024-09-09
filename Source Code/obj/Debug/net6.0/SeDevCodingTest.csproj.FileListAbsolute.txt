@@ -1,0 +1,14 @@
+C:\Users\osman.habib\Desktop\Test\SeDevCodingTest\bin\Debug\net6.0\SeDevCodingTest.exe
+C:\Users\osman.habib\Desktop\Test\SeDevCodingTest\bin\Debug\net6.0\SeDevCodingTest.deps.json
+C:\Users\osman.habib\Desktop\Test\SeDevCodingTest\bin\Debug\net6.0\SeDevCodingTest.runtimeconfig.json
+C:\Users\osman.habib\Desktop\Test\SeDevCodingTest\bin\Debug\net6.0\SeDevCodingTest.dll
+C:\Users\osman.habib\Desktop\Test\SeDevCodingTest\bin\Debug\net6.0\SeDevCodingTest.pdb
+C:\Users\osman.habib\Desktop\Test\SeDevCodingTest\obj\Debug\net6.0\SeDevCodingTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\osman.habib\Desktop\Test\SeDevCodingTest\obj\Debug\net6.0\SeDevCodingTest.AssemblyInfoInputs.cache
+C:\Users\osman.habib\Desktop\Test\SeDevCodingTest\obj\Debug\net6.0\SeDevCodingTest.AssemblyInfo.cs
+C:\Users\osman.habib\Desktop\Test\SeDevCodingTest\obj\Debug\net6.0\SeDevCodingTest.csproj.CoreCompileInputs.cache
+C:\Users\osman.habib\Desktop\Test\SeDevCodingTest\obj\Debug\net6.0\SeDevCodingTest.dll
+C:\Users\osman.habib\Desktop\Test\SeDevCodingTest\obj\Debug\net6.0\refint\SeDevCodingTest.dll
+C:\Users\osman.habib\Desktop\Test\SeDevCodingTest\obj\Debug\net6.0\SeDevCodingTest.pdb
+C:\Users\osman.habib\Desktop\Test\SeDevCodingTest\obj\Debug\net6.0\SeDevCodingTest.genruntimeconfig.cache
+C:\Users\osman.habib\Desktop\Test\SeDevCodingTest\obj\Debug\net6.0\ref\SeDevCodingTest.dll
